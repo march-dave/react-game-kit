@@ -23,7 +23,9 @@
   "license": "MIT",
   "repository": "https://github.com/FormidableLabs/react-game-kit",
   "dependencies": {
-    "matter-js": "^0.13.0"
+    "matter-js": "^0.13.0",
+    "react-game-kit": "^1.0.0",
+    "save": "^2.3.1"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
